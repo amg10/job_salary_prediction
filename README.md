@@ -1,2 +1,2 @@
-# job_salary_prediction
+# Job Salary Prediction
 Predict job salary given a posting
