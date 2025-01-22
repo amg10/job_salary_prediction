@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+beautifulsoup4
+sklearn
+pandas
+joblib
+bs4
+selenium
